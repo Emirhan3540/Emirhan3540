@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emirhan3540
-- 👀 I’m interested in Python,Html5
-- 🌱 I’m currently learning Vb.net
+- 👀 I’m interested in Python,Html5,Vb.net,Asp.net
+- 🌱 I’m currently learning SWIFT
 - 💞️ I am looking for a job where I can code remotely.
 - 📫 How to reach me : emirhanie21@gmail.com
 
